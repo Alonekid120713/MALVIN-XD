@@ -1,5 +1,5 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
+  "name":alone_Kid "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
   "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here.",MALVIN-XD~tgoH3IJQ#1H_sx7BVLQzEfUBDAKV4oqKFcp6OG4kxTas9ZkDv6bo
       "required": true,
       "value": ""
     },  
@@ -53,13 +53,13 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
       "value": "false"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
@@ -99,8 +99,8 @@
       "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
     }, 
 
-    "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+    "OWNER_NAME": {alone_kid
+      "description": "Type Bot Owner Name.",muhammad
       "required": false,
       "value": "Malvin King"
       
@@ -113,9 +113,9 @@
 
     }, 
 
-    "BOT_NAME": {
-      "description": "Type here the bot name.",
-      "required": false,
+    "BOT_NAME": {Demon
+      "description": "Type here the bot name.",Demon
+      "required": true,
       "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
 
       }, 
@@ -158,7 +158,7 @@
     },
       "FAKE_TYPING": {
       "description": "Make it true for fake typing.",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     
